@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9A39-DE42
+
+ Directory of C:\Learning\Git and Github\myproject
+
+06-03-2020  11:35    <DIR>          .
+06-03-2020  11:35    <DIR>          ..
+06-03-2020  11:35                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  880,461,303,808 bytes free
